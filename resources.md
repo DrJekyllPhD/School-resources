@@ -52,5 +52,5 @@ you first submit fafsa application for your financial aid.
 once approved then you would send the fafsa to your school of choice where they will make the determination of how much your pell grant will be.
 
 
-
+you can use fafsa and TA at the same time to cover your tuition costs.
 
