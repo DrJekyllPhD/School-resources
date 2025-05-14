@@ -17,16 +17,16 @@ very accomodating
 
 
 
-## Joint Service Trascript
+## Joint Service Transcript
 
 
 https://jst.doded.mil/jst/
 
 
-JCAC certs are roughly 30 credits towards a bachalors degree.
+JCAC certs are roughly 30 credits towards a bachelor's degree.
 
 
-sending transcripts virtually
+will send transcripts virtually
 
 
 most universities will have an email where they accept virtual transcripts
