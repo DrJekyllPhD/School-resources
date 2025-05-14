@@ -1,6 +1,7 @@
-https://www.umgc.edu/
+## University of Maryland Global Campus
 
-University of Maryland Global Campus
+
+https://www.umgc.edu/
 
 
 discount per credit for service members
@@ -16,11 +17,11 @@ very accomodating
 
 
 
+## Joint Service Trascript
+
 
 https://jst.doded.mil/jst/
 
-
-Joint Service Trascript
 
 JCAC certs are roughly 30 credits towards a bachalors degree.
 
@@ -32,10 +33,11 @@ most universities will have an email where they accept virtual transcripts
 
 
 
+
+## FAFSA
+
+
 https://studentaid.gov/
-
-
-FAFSA
 
 
 As lower enlisted you are highly likely to be eligible for grants.
